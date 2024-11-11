@@ -1,0 +1,14 @@
+Subject: Internship Inquiry at {{company_name}}
+
+Dear {{contact_person}},
+
+I am reaching out to express my interest in an internship opportunity at {{company_name}} in {{location}}. I am currently pursuing a Bachelor’s in Computer Engineering and am passionate about [mention specific skills relevant to the company].
+
+I believe my background and skills would be a great fit for your team, and I would be excited to discuss this opportunity further. Please let me know if there is a convenient time for us to connect.
+
+Thank you for your time and consideration.
+
+Best regards,  
+[Your Name]  
+[Your LinkedIn Profile]  
+[Your GitHub Profile]
